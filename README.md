@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="1000071156" src="https://github.com/user-attachments/assets/b671e391-e185-4b1e-9bb4-de5286bb2922" />
+<img width="1024" height="1024" alt="1000071155" src="https://github.com/user-attachments/assets/4d6ed9c0-51a1-47d0-8ed9-7592d552fd9d" />
 # MPesa Payment System
 
 This project is a simplified MPesa-based payment platform that supports
